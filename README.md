@@ -2,7 +2,7 @@
 
 AI agents that run end-to-end machine learning experiments: given a dataset and a goal, they explore and clean the data, train and compare models, check for data leakage and overfitting, and write a structured report.
 
-> 🚧 **Work in progress.** Started November 2026. See the roadmap below for current status.
+>  **Work in progress.** Started November 2026. See the roadmap below for current status.
 
 ## Why this project
 

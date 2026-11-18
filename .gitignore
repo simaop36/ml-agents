@@ -1,3 +1,7 @@
 .env
 .venv/
 __pycache__/
+data/production_dataset
+.pytest_cache/
+.DS_Store
+runs/
